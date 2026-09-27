@@ -6,6 +6,15 @@ A business analytics project examining restaurant sales performance and customer
 
 ### [View the Sales & Customer Review Dashboard](https://datastudio.google.com/reporting/34f33eb1-62d7-4012-afd4-09bf88a50250)
 
+### Sales Performance Dashboard
+
+![Front Street Pizza Sales Dashboard](sales-dashboard.png)
+
+### Customer Review Dashboard
+
+![Front Street Pizza Customer Review Dashboard](review-dashboard.png)
+
+
 The interactive dashboard contains two pages:
 
 - **Sales Performance:** Revenue, units sold, product rankings, and sales volume.

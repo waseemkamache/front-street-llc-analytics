@@ -12,7 +12,7 @@ A business analytics project examining restaurant sales performance and customer
 
 ### Customer Review Dashboard
 
-![Front Street Pizza Customer Review Dashboard](review-dashboard.png)
+![Front Street Pizza Customer Review Dashboard](reviews-dashboard.png)
 
 
 The interactive dashboard contains two pages:
